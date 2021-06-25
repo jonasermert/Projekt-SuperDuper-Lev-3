@@ -1,28 +1,86 @@
-body {
-    background-color: #fff;
-    font-family: 'Maven Pro';
-}
 
-#logo {
-    color:#fff;
-}
+/*
+    Divs
+*/
 
-header{
-    background-color: #333;
-}
+    #logo {
+        color:#fff;
+    }
 
-#stuffwedo {
-    text-align: justify;
-}
+    #wasserzeichen {
+        background-color: #fff;
+        text-align: center;
+    }
 
-#navigation {
-    text-align: right;
-}
+/*Navigation */
 
-main {
-    background-color: #fff;
-}
+    #navigation {
+        text-align: right;
+    }
 
-a li:hover {
-    color:#fff;
-}
+    #navigation a li:hover {
+        color:#fff;
+    }
+
+    /* Projects */
+
+    #stuffwedo {
+        text-align: justify;
+        text-align: center;
+    }
+
+    #proudof {
+        background-color: #fff;
+    }
+
+    #pmu {
+        background-color: #fff;
+        
+    }
+
+    #pmu p {
+        background-color: #fff;
+    }
+
+    #agrotechs {
+        background-color: #fff;
+    }
+
+    #agrotechs p {
+        background-color: #fff;
+    }
+
+    #namucursors {
+        background-color: #fff;
+    }
+
+    #namucursors p {
+        background-color: #fff;
+    }
+
+/* Tags */
+
+    body {
+        background-color: #fff;
+        font-family: 'Maven Pro';
+    }
+
+    header{
+        background-color: #333;
+    }
+
+    main {
+        background-color: #fff;
+    }
+
+    footer {
+        background-color: grey;
+    }
+
+
+
+
+
+
+
+
