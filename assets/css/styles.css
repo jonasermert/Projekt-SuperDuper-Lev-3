@@ -12,10 +12,22 @@
         text-align: center;
     }
 
+    #creativefresh {
+        background-image:linear-gradient(to right, #3dc8d5, #8507e1) ;
+    }
+
+    #creativefresh p {
+        background-image: ;
+    }
+
 /*Navigation */
 
     #navigation {
         text-align: right;
+    }
+
+    #navigation li {
+        list-style: none
     }
 
     #navigation a li:hover {
@@ -35,6 +47,9 @@
 
     #pmu {
         background-color: #fff;
+        justify-content: center; 
+        align-items: center;
+        text-align: center;
         
     }
 
@@ -44,6 +59,9 @@
 
     #agrotechs {
         background-color: #fff;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
     }
 
     #agrotechs p {
@@ -52,6 +70,9 @@
 
     #namucursors {
         background-color: #fff;
+        justify-content: center;
+        align-items: center; 
+        text-align: center;
     }
 
     #namucursors p {
