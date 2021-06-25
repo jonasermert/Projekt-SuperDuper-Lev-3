@@ -55,9 +55,16 @@
     #stuffwedo {
         text-align: justify;
         text-align: center;
+        font-weight: bold;
     }
 
     #proudof {
+        background-color: #fff;
+        font-weight: bold;
+        
+    }
+
+    #proudof h2 {
         background-color: #fff;
     }
 
@@ -111,7 +118,7 @@
     }
 
     footer {
-        background-color: grey;
+        background-color:#fff;
     }
 
 
