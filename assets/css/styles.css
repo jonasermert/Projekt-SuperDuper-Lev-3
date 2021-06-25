@@ -3,6 +3,10 @@ body {
     font-family: 'Maven Pro';
 }
 
+#logo {
+    color:#fff;
+}
+
 header{
     background-color: #333;
 }
@@ -11,3 +15,14 @@ header{
     text-align: justify;
 }
 
+#navigation {
+    text-align: right;
+}
+
+main {
+    background-color: #fff;
+}
+
+a li:hover {
+    color:#fff;
+}
